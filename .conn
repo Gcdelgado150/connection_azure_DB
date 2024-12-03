@@ -1,0 +1,9 @@
+server = 'test-server-gcd.database.windows.net'
+database = 'test-db'
+username = 'gcdelgado15'
+password = 'Aa22595084@'
+driver = 'ODBC Driver 18 for SQL Server'
+uid = 'CloudSA319d07b6'
+Encrypt=True
+TrustServerCertificate=False
+Connection_Timeout=30
